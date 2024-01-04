@@ -1,7 +1,7 @@
 # DCQA
 [DCQA: Document-Level Chart Question Answering towards Complex Reasoning and Common-Sense Understanding](https://arxiv.org/abs/2310.18983)
 
-![DCQA dataset example](./DCQA dataset example.png)
+![DCQA](./DCQA.png)
 
 
 
