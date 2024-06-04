@@ -15,7 +15,7 @@ For more detailed information, please refer to our [paper](https://arxiv.org/abs
 
 ## Access
 
-If you would like to download the DCQA dataset, please send email to [lhe@cs.ecnu.edu.cn](mailto:lhe@cs.ecnu.edu.cn) , [xjwu_cs@fudan.edu.cn](mailto:xjwu_cs@fudan.edu.cn) and [anranwu@stu.ecnu.edu.cn](mailto:anranwu@stu.ecnu.edu.cn). We will send you the dataset download link.
+Welcome to access the DCQA dataset through [huggingface](https://huggingface.co/datasets/AnranWuRichPo/DCQA/tree/main). The specific usage method is to download 5 compressed volumes at the same time and then decompress them together, and then you can get the complete DCQA dataset. 
 
 
 
